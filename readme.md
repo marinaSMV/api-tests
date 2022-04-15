@@ -18,5 +18,5 @@ mvn clean test
 mvn allure:serve
 ```
 3. After generating report please go to the site and change the language :)
+ For example:  http://192.168.0.2:62836/index.html
 
-## Requirements: 
